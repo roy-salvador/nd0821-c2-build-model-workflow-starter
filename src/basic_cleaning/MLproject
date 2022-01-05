@@ -18,7 +18,7 @@ entry_points:
         type: str
 
       output_description:
-        description: "Description for the output artifact
+        description: Description for the output artifact
         type: str
 
       min_price:
